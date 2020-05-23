@@ -3,4 +3,6 @@ Alle .m4v-Dateien als .mp4-Datei mit gleichem Namen speichern im aktuellen Ordne
 ```for i in *.m4v; do ffmpeg -i "$i" -c copy „${i%.*}.mp4"; done```<br>
 <br>
 ## Spotify Songs downloaden <br>
-Mittels spotdl
+Mittels spotdl:<br>
+```spotdl -s```<br>
+anschließend per Drag&Drop Song aus Spotify einfügen.<br>
