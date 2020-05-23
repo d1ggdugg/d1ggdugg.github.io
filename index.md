@@ -4,6 +4,8 @@ Alle .m4v-Dateien als .mp4-Datei mit gleichem Namen speichern im aktuellen Ordne
 <br>
 ### Spotify Songs downloaden
 [mittels spotdl & Terminal:](https://github.com/ritiek/spotify-downloader)<br>
-```spotdl -s```<br>
-anschließend per Drag&Drop Song aus Spotify einfügen.<br>
-
+```spotdl -s```(Song einfügen per Drag&Drop)<br>
+<br>
+```spotdl --playlist``` (Playlist einfügen per Drag&Drop)<br>
+```spotdl --list NAME_DER_PLAYLIST.txt```
+<br>
