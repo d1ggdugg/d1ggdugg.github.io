@@ -9,3 +9,6 @@ Alle .m4v-Dateien als .mp4-Datei mit gleichem Namen speichern im aktuellen Ordne
 ```spotdl --playlist``` (Playlist einfügen per Drag&Drop)<br>
 ```spotdl --list NAME_DER_PLAYLIST.txt```
 <br>
+### Ausschnitte aus Final Cut Pro X exportieren
+Anfang des Videos mit ```i``` und Ende mit ```o``` markieren und ```Video bereitstellen```<br>
+<br>
