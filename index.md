@@ -13,4 +13,4 @@ Alle .m4v-Dateien als .mp4-Datei mit gleichem Namen speichern im aktuellen Ordne
 Anfang des Videos mit ```i``` und Ende mit ```o``` markieren und ```Video bereitstellen```<br>
 <br>
 ### Einblendungen animieren mit Keyframe
-![Alt-Text](https://github.com/d1ggdugg/d1ggdugg.github.io/blob/master/Titel%201-3.png "Aufbau Titelleiste")
+![Alt-Text](https://github.com/d1ggdugg/d1ggdugg.github.io/blob/master/Titel%201-3.png =100 "Aufbau Titelleiste")
