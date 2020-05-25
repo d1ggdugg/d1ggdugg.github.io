@@ -3,7 +3,7 @@ Alle .m4v-Dateien als .mp4-Datei mit gleichem Namen speichern im aktuellen Ordne
 ```for i in *.m4v; do ffmpeg -i "$i" -c copy „${i%.*}.mp4"; done```<br>
 <br>
 ### Spotify Songs downloaden
-[spotdl@github](https://github.com/ritiek/spotify-downloader)<br>
+[ritiek/spotify-downloader](https://github.com/ritiek/spotify-downloader)<br>
 ```spotdl -s```(Song einfügen per Drag&Drop)<br>
 <br>
 ```spotdl --playlist``` (Playlist einfügen per Drag&Drop)<br>
@@ -13,7 +13,7 @@ Alle .m4v-Dateien als .mp4-Datei mit gleichem Namen speichern im aktuellen Ordne
 Anfang des Videos mit ```i``` und Ende mit ```o``` markieren und ```Video bereitstellen```<br>
 <br>
 ### Einblendungen animieren mit Keyframe
-Einblendung insgesamt 11 Sekunden.<br>
+Einblendung insgesamt 11 Sekunden.
 Animation|Titel|Untertitel 1|Untertitel 2
 ---------|-----|------------|-----------
 Aufbau|1 Sek.|1 Sek.|1 Sek.
