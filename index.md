@@ -13,7 +13,8 @@ Alle .m4v-Dateien als .mp4-Datei mit gleichem Namen speichern im aktuellen Ordne
 Anfang des Videos mit ```i``` und Ende mit ```o``` markieren und ```Video bereitstellen```<br>
 <br>
 ### Einblendungen animieren mit Keyframe
-Animation|Titel|Untertitel 1|Untertitel2
+Einblendung insgesamt 11 Sekunden.<br>
+Animation|Titel|Untertitel 1|Untertitel 2
 ---------|-----|------------|-----------
 Aufbau|1 Sek.|1 Sek.|1 Sek.
 Aktion|8 Sek. (20px)|4 Sek. (-20px)|4 Sek. (-20px)
