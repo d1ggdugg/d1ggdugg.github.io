@@ -14,7 +14,7 @@ Anfang des Videos mit ```i``` und Ende mit ```o``` markieren und ```Video bereit
 <br>
 ### Einblendungen animieren mit Keyframe
 Animation|Titel|Untertitel 1|Untertitel2
------|------------|-----------
+---------|-----|------------|-----------
 Aufbau|1|1|1
 Aktion|8|4|4
 Abbau|1|1|1
