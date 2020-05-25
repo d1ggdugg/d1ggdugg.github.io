@@ -16,5 +16,5 @@ Anfang des Videos mit ```i``` und Ende mit ```o``` markieren und ```Video bereit
 Animation|Titel|Untertitel 1|Untertitel2
 ---------|-----|------------|-----------
 Aufbau|1|1|1
-Aktion|8|4|4
+Aktion|8 (20px)|4 (-20px)|4 (-20px)
 Abbau|1|1|1
