@@ -17,5 +17,5 @@ Einblendung insgesamt 11 Sekunden.
 Animation|Titel|Untertitel 1|Untertitel 2
 ---------|-----|------------|-----------
 Aufbau|1 Sek.|1 Sek.|1 Sek.
-Aktion|8 Sek. (20px)|4 Sek. (-20px)|4 Sek. (-20px)
+Aktion|8 Sek. (20px)|3,5 Sek. (-20px)|3,5 Sek. (-20px)
 Abbau|1 Sek.|1 Sek.|1 Sek.
