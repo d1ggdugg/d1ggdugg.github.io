@@ -13,16 +13,13 @@ Alle .m4v-Dateien als .mp4-Datei mit gleichem Namen speichern im aktuellen Ordne
 Anfang des Videos mit ```i``` und Ende mit ```o``` markieren und ```Video bereitstellen```<br>
 <br>
 ### Einblendungen animieren mit Keyframe
-Einblendung insgesamt 11 Sekunden.
+Einblendung einer Bauchbinde mit einem Titel und nacheinanderfolgenden zwei Untertiteln. Gesamtspielzeit: 10 Sekunden.<br>
+Aufbau: ```Überblenden und Bewegen```
+Aktion: ```Bewegen (Beschleunigung: ohne)```
+Abbau: ```Überblenden und Bewegen```
 
 | Animation | Titel         | Untertitel 1     | Untertitel 2     |
 | --------- | ------------- | ---------------- | ---------------- |
 | Aufbau    | 1 Sek.        | 1 Sek.           | 1 Sek.           |
 | Aktion    | 8 Sek. (20px) | 3,5 Sek. (-20px) | 3,5 Sek. (-20px) |
 | Abbau     | 1 Sek.        | 1 Sek.           | 1 Sek.           |
-
-| Tables        | Are           | Cool  |
-| ------------- |---------------| ------|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
