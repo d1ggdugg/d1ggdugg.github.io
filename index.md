@@ -14,6 +14,7 @@ Anfang des Videos mit ```i``` und Ende mit ```o``` markieren und ```Video bereit
 <br>
 ### Einblendungen animieren mit Keyframe
 Einblendung insgesamt 11 Sekunden.
+
 | Animation | Titel         | Untertitel 1     | Untertitel 2 |
 | --------- | ------------- | ---------------- | ------------ |
 | Aufbau    | 1 Sek.        | 1 Sek.           | 1 Sek.    
