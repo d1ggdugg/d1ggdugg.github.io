@@ -14,9 +14,9 @@ Anfang des Videos mit ```i``` und Ende mit ```o``` markieren und ```Video bereit
 <br>
 ### Einblendungen animieren mit Keyframe
 Einblendung einer Bauchbinde mit einem Titel und nacheinanderfolgenden zwei Untertiteln. Gesamtspielzeit: 10 Sekunden.<br>
-Aufbau: ```Überblenden und Bewegen```
-Aktion: ```Bewegen (Beschleunigung: ohne)```
-Abbau: ```Überblenden und Bewegen```
+Aufbau: ```Überblenden und Bewegen```<br>
+Aktion: ```Bewegen (Beschleunigung: ohne)```<br>
+Abbau: ```Überblenden und Bewegen```<br>
 
 | Animation | Titel         | Untertitel 1     | Untertitel 2     |
 | --------- | ------------- | ---------------- | ---------------- |
