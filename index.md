@@ -4,6 +4,7 @@ Alle .m4v-Dateien als .mp4-Datei mit gleichem Namen speichern im aktuellen Ordne
 <br>
 ### Spotify Songs downloaden
 [ritiek/spotify-downloader](https://github.com/ritiek/spotify-downloader)<br>
+Fehler vermeiden: ```cd /Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/site-packages/spotdl```<br>
 ```spotdl -s```(Song einfügen per Drag&Drop)<br>
 <br>
 ```spotdl --playlist``` (Playlist einfügen per Drag&Drop)<br>
