@@ -11,9 +11,9 @@ Fehler vermeiden: ```pip3 uninstall spotdl```<br>
 ```spotdl --list NAME_DER_PLAYLIST.txt```
 <br>
 ### Videos/Filme konvertieren
-[handbrake](https://handbrake.fr)
-[ffmpeg](https://ffmpeg.org)
-
+[handbrake](https://handbrake.fr)<br>
+[ffmpeg](https://ffmpeg.org)<br>
+<br>
 ### Ausschnitte aus Final Cut Pro X exportieren
 Anfang des Videos mit ```i``` und Ende mit ```o``` markieren und ```Video bereitstellen```<br>
 <br>
