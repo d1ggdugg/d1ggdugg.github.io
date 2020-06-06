@@ -29,7 +29,7 @@ Abbau: ```Überblenden und Bewegen```<br>
 | Aufbau    | 1 Sek.        | 1 Sek.           | 1 Sek.           |
 | Aktion    | 8 Sek. (20px) | 3,5 Sek. (-20px) | 3,5 Sek. (-20px) |
 | Abbau     | 1 Sek.        | 1 Sek.           | 1 Sek.           |
-<br>
+
 ### Untertitel 1080p
 Schriftart: Roboto<br>
 Höhe: 925 von Unterkante<br>
