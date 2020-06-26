@@ -36,5 +36,5 @@ Höhe: 925 von Unterkante<br>
 Schriftfarbe: weiß<br>
 Schatten: Weichzeichen: 5, Distanz: 4 Deckkraft: 70%<br>
 
-###CPU-/GPU-Temperatur auslesen unter MacOS
+### CPU-/GPU-Temperatur auslesen unter MacOS
 [fanny](https://github.com/DanielStormApps/Fanny)<br>
