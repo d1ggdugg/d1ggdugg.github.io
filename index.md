@@ -38,3 +38,6 @@ Schatten: Weichzeichen: 5, Distanz: 4 Deckkraft: 70%<br>
 
 ### CPU-/GPU-Temperatur auslesen unter MacOS
 [fanny](https://github.com/DanielStormApps/Fanny)<br>
+
+### Erstellungsdatum von Dateien ändern unter MacOS per Terminal
+```touch -mt YYYYDDHHMM ```<br>
