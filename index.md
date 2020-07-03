@@ -13,10 +13,10 @@ Fehler vermeiden: ```pip3 uninstall spotdl```<br>
 ### Videos/Filme konvertieren
 [handbrake](https://handbrake.fr)<br>
 [ffmpeg](https://ffmpeg.org)<br>
-<br>
+
 ### Ausschnitte aus Final Cut Pro X exportieren
 Anfang des Videos mit ```i``` und Ende mit ```o``` markieren und ```Video bereitstellen```<br>
-<br>
+
 ### Einblendungen animieren mit Keyframe
 Einblendung einer Bauchbinde mit einem Titel und nacheinanderfolgenden zwei Untertiteln. Gesamtspielzeit: 10 Sekunden.<br>
 <br>
