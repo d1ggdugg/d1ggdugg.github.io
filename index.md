@@ -3,7 +3,7 @@ Alle .m4v-Dateien als .mp4-Datei mit gleichem Namen speichern im aktuellen Ordne
 ```for i in *.m4v; do ffmpeg -i "$i" -c copy „${i%.*}.mp4"; done```<br>
 
 ### Video-Dateien komprimieren mit ffmpeg
-``ffmpeg -i eingabe.mp4 -vcodec libx264 -crf 20 ausgbae.mp4```<br>
+```ffmpeg -i eingabe.mp4 -vcodec libx264 -crf 20 ausgbae.mp4```<br>
 
 ### Spotify Songs downloaden
 [ritiek/spotify-downloader](https://github.com/ritiek/spotify-downloader)<br>
