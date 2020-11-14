@@ -44,5 +44,9 @@ Schatten: Weichzeichen: 5, Distanz: 4 Deckkraft: 70%<br>
 
 ### Erstellungsdatum von Dateien ändern unter MacOS per Terminal
 ```touch -mt YYYYDDHHMM ```<br>
+
 ### USB-Festplatte einbinden
-[Link](https://jankarres.de/2013/01/raspberry-pi-usb-stick-und-usb-festplatte-einbinden/)
+[Link](https://jankarres.de/2013/01/raspberry-pi-usb-stick-und-usb-festplatte-einbinden/)<br>
+
+### OCR scannen aus Dokumenten (auch Screenshots, pdf, etc.)
+[OwlOCR](https://owlocr.com)<br>
