@@ -50,3 +50,7 @@ Schatten: Weichzeichen: 5, Distanz: 4 Deckkraft: 70%<br>
 
 ### OCR scannen aus Dokumenten (auch Screenshots, pdf, etc.)
 [OwlOCR](https://owlocr.com)<br>
+
+### EXIF Meta-Daten auslesen, schreiben, ändern
+[ExifTool](https://exiftool.org)
+terminl: exiftool (Bild einfügen per Drag&drop)<br>
