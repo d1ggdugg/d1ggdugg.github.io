@@ -57,3 +57,7 @@ terminl: exiftool (Bild einfügen per Drag&drop)<br>
 
 ### Mehrere Dateien umbenennen / Formate ändern (jpeg --> jpg)
 [How to rename multiple files at once on Mac](https://www.imore.com/how-rename-multiple-files-once-mac)<br>
+
+### .mp3-Player für android
+[Musicolet Musikplayer](https://play.google.com/store/apps/details?id=in.krosbits.musicolet&hl=de&gl=US)
+Ganz einfacher Musik-Player ohne Werbung und nur für den Offline-Einsatz<br>
