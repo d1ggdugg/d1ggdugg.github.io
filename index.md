@@ -53,7 +53,7 @@ Schatten: Weichzeichen: 5, Distanz: 4 Deckkraft: 70%<br>
 
 ### EXIF Meta-Daten auslesen, schreiben, ändern
 [ExifTool](https://exiftool.org)
-terminl: exiftool (Bild einfügen per Drag&drop)<br>
+terminal: exiftool (Bild einfügen per Drag&drop)<br>
 
 ### Mehrere Dateien umbenennen / Formate ändern (jpeg --> jpg)
 [How to rename multiple files at once on Mac](https://www.imore.com/how-rename-multiple-files-once-mac)<br>
