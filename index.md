@@ -8,7 +8,7 @@ Alle .m4v-Dateien als .mp4-Datei mit gleichem Namen speichern im aktuellen Ordne
 ### Spotify Songs downloaden
 [ritiek/spotify-downloader](https://github.com/ritiek/spotify-downloader)<br>
 Fehler vermeiden: ```pip3 uninstall spotdl```<br>
-```spotdl -s```(Song einfügen per Drag&Drop)<br>
+```spotdl -url```(Song einfügen per Drag&Drop)<br>
 
 ```spotdl --playlist``` (Playlist einfügen per Drag&Drop)<br>
 ```spotdl --list NAME_DER_PLAYLIST.txt```<br>
