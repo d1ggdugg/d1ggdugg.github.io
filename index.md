@@ -69,6 +69,4 @@ Ganz einfacher Musik-Player ohne Werbung und nur für den Offline-Einsatz<br>
 [ExifRenamer](https://www.qdev.de/?location=mac/exifrenamer)<br>
 
 ### WLAN Stärke alle 0,5 Sekunden per Terminal konrollieren unter MacOS
-```while x=1; do /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I | grep CtlRSSI; sleep 0.5; done
-
-
+```while x=1; do /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I | grep CtlRSSI; sleep 0.5; done ```
