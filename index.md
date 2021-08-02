@@ -70,3 +70,13 @@ Ganz einfacher Musik-Player ohne Werbung und nur für den Offline-Einsatz<br>
 
 ### WLAN Stärke alle 0,5 Sekunden per Terminal konrollieren unter MacOS
 ```while x=1; do /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I | grep CtlRSSI; sleep 0.5; done ```
+
+### USB-Stick im exfat-Format unter Linux (raspberrypi) einbinden
+```sudo apt-get install exfat-fuse```
+```sudo apt-get install exfat-utils```
+```sudo apt-get update```
+```sudo apt-get reboot```
+```sudo modprobe fuse```
+```sudo mount /dev/sda1 /media/usb```
+```cd /media/usb```
+
