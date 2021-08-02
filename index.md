@@ -69,14 +69,14 @@ Ganz einfacher Musik-Player ohne Werbung und nur für den Offline-Einsatz<br>
 [ExifRenamer](https://www.qdev.de/?location=mac/exifrenamer)<br>
 
 ### WLAN Stärke alle 0,5 Sekunden per Terminal konrollieren unter MacOS
-```while x=1; do /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I | grep CtlRSSI; sleep 0.5; done ```
+```while x=1; do /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I | grep CtlRSSI; sleep 0.5; done ```<br>
 
 ### USB-Stick im exfat-Format unter Linux (raspberrypi) einbinden
-```sudo apt-get install exfat-fuse```
-```sudo apt-get install exfat-utils```
-```sudo apt-get update```
-```sudo apt-get reboot```
-```sudo modprobe fuse```
-```sudo mount /dev/sda1 /media/usb```
-```cd /media/usb```
+```sudo apt-get install exfat-fuse```<br>
+```sudo apt-get install exfat-utils```<br>
+```sudo apt-get update```<br>
+```sudo apt-get reboot```<br>
+```sudo modprobe fuse```<br>
+```sudo mount /dev/sda1 /media/usb```<br>
+```cd /media/usb```<br>
 
