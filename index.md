@@ -80,3 +80,5 @@ Ganz einfacher Musik-Player ohne Werbung und nur für den Offline-Einsatz<br>
 ```sudo mount /dev/sda1 /media/usb```<br>
 ```cd /media/usb```<br>
 
+### screen Package 
+Problem war, dass der Befehl raspistill beim Trennen der SSH-Verbindung abbrach. Lösung ist, dass man mittels ```-screen -S Name_des_Terminals``` ein weiteres virtuelles Fenster in der Konsole öffnet und in diesem (neuen, virtuellen Fenster) den Befehl ausführt. Man verlässt das Fenster mit der Tastenkombination Ctrl+A und dann d klicken. Um wieder zum virtuellen Fenster zu gelangen ```screen -r```oder bei mehreren offenen virtuellen Fenstern ```screen -r Name_des_Terminals```. Alle geöffneten Terminals lassen sich per ```screen ls```anzeigen.<br>
