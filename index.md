@@ -91,7 +91,7 @@ Problem war, dass der Befehl raspistill beim Trennen der SSH-Verbindung abbrach.
 <b>-h</b> = Höhe<br>
 <b>-ex night</b> = -ex = exposure = Belichtungszeit; night = Belichtungszeit für Nachtaufnahmen<br>
 <b>-rot</b> = rotation = im Uhrzeigersinn, feste Größen alle 90°<br>
-<b>-t</b> = Gesamtzeit der Aufnahmen in Millisekunden; 46800000 = 13 Stunden (Umrechnung von 4,68e+7 Millisekunden [convert units](http://convert-units.info/time/millisecond/1)<br>
+<b>-t</b> = Gesamtzeit der Aufnahmen in Millisekunden; 46800000 = 13 Stunden (Umrechnung von 4,68e+7 Millisekunden [convert units](http://convert-units.info/time/millisecond/1))<br>
 <b>-tl</b> = Zeit, nach welcher ein Foto gemacht wird in Millisekunden; 60000 = 1 Minute<br>
 <b>-o</b> = Ausgabeort; %04d = 0000.jpg, 00001.jpg ff.<br><br>
 
