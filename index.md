@@ -96,5 +96,5 @@ Problem war, dass der Befehl raspistill beim Trennen der SSH-Verbindung abbrach.
 -o = Ausgabeort; %04d = 0000.jpg, 00001.jpg ff.<br><br>
 
 ```ffmpeg -r 10 -f image2 -pattern_type glob -i /media/usbstick/"*.jpg" -s 1920x1080 -vcodec libx264 /media/usbstick/zeitfaffer.mp4```<br>
-<b>-r<b> = Anzahl der Bilder pro Sekunde<br>
+<b>-r</b> = Anzahl der Bilder pro Sekunde<br>
 -i = Eingabe; Anführungszeichen!; alle .jpg-Bilder eines Ordners durch "*.jpg"<br>
