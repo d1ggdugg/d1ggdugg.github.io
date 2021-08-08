@@ -82,4 +82,19 @@ Ganz einfacher Musik-Player ohne Werbung und nur für den Offline-Einsatz<br>
 
 ### screen Package 
 Problem war, dass der Befehl raspistill beim Trennen der SSH-Verbindung abbrach. Lösung ist, dass man mittels <br>```-screen -S Name_des_Terminals```<br> ein weiteres virtuelles Fenster in der Konsole öffnet und in diesem (neuen, virtuellen Fenster) den Befehl ausführt. Man verlässt das Fenster mit der Tastenkombination Ctrl+A und dann d klicken. Um wieder zum virtuellen Fenster zu gelangen <br>```screen -r```<br> oder bei mehreren offenen virtuellen Fenstern <br>```screen -r Name_des_Terminals```.<br> Alle geöffneten Terminals lassen sich per <br>```screen ls```<br> anzeigen. <br><br>
-[How To Use Linux Screen](https://linuxize.com/post/how-to-use-linux-screen/)
+[How To Use Linux Screen](https://linuxize.com/post/how-to-use-linux-screen/)<br>
+
+### Zeitraffervideo (raspistill + ffmpeg)
+```raspistill -n -w 1920 -h 1080 -ex night -rot 270 -t 46800000 -tl 60000 -o /media/usbstick/%04d.jpg```<br>
+-n = kein Vorschaubild<br>
+-w = Breite<br>
+-h = Höhe<br>
+-ex night = -ex = exposure = Belichtungszeit; night = Belichtungszeit für Nachtaufnahmen<br>
+-rot = rotation = im Uhrzeigersinn, feste Größen alle 90°<br>
+-t = Gesamtzeit der Aufnahmen in Millisekunden; 46800000 = 13 Stunden (Umrechnung von 4,68e+7 Millisekunden [convert units](http://convert-units.info/time/millisecond/1)<br>
+-tl = Zeit, nach welcher ein Foto gemacht wird in Millisekunden; 60000 = 1 Minute<br>
+-o = Ausgabeort; %04d = 0000.jpg, 00001.jpg ff.<br><br>
+
+```ffmpeg -r 10 -f image2 -pattern_type glob -i /media/usbstick/"*.jpg" -s 1920x1080 -vcodec libx264 /media/usbstick/zeitfaffer.mp4```<br>
+-r = Anzahl der Bilder pro Sekunde<br>
+-i = Eingabe; Anführungszeichen!; alle .jpg-Bilder eines Ordners durch "*.jpg"<br>
