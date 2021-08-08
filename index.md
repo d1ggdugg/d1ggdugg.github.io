@@ -86,15 +86,15 @@ Problem war, dass der Befehl raspistill beim Trennen der SSH-Verbindung abbrach.
 
 ### Zeitraffervideo (raspistill + ffmpeg)
 ```raspistill -n -w 1920 -h 1080 -ex night -rot 270 -t 46800000 -tl 60000 -o /media/usbstick/%04d.jpg```<br>
--n = kein Vorschaubild<br>
--w = Breite<br>
--h = Höhe<br>
--ex night = -ex = exposure = Belichtungszeit; night = Belichtungszeit für Nachtaufnahmen<br>
--rot = rotation = im Uhrzeigersinn, feste Größen alle 90°<br>
--t = Gesamtzeit der Aufnahmen in Millisekunden; 46800000 = 13 Stunden (Umrechnung von 4,68e+7 Millisekunden [convert units](http://convert-units.info/time/millisecond/1)<br>
--tl = Zeit, nach welcher ein Foto gemacht wird in Millisekunden; 60000 = 1 Minute<br>
--o = Ausgabeort; %04d = 0000.jpg, 00001.jpg ff.<br><br>
+<b>-n</b> = kein Vorschaubild<br>
+<b>-w</b> = Breite<br>
+<b>-h</b> = Höhe<br>
+<b>-ex night</b> = -ex = exposure = Belichtungszeit; night = Belichtungszeit für Nachtaufnahmen<br>
+<b>-rot</b> = rotation = im Uhrzeigersinn, feste Größen alle 90°<br>
+<b>-t</b> = Gesamtzeit der Aufnahmen in Millisekunden; 46800000 = 13 Stunden (Umrechnung von 4,68e+7 Millisekunden [convert units](http://convert-units.info/time/millisecond/1)<br>
+<b>-tl</b> = Zeit, nach welcher ein Foto gemacht wird in Millisekunden; 60000 = 1 Minute<br>
+<b>-o</b> = Ausgabeort; %04d = 0000.jpg, 00001.jpg ff.<br><br>
 
 ```ffmpeg -r 10 -f image2 -pattern_type glob -i /media/usbstick/"*.jpg" -s 1920x1080 -vcodec libx264 /media/usbstick/zeitfaffer.mp4```<br>
 <b>-r</b> = Anzahl der Bilder pro Sekunde<br>
--i = Eingabe; Anführungszeichen!; alle .jpg-Bilder eines Ordners durch "*.jpg"<br>
+<b>-i</b> = Eingabe; Anführungszeichen!; alle .jpg-Bilder eines Ordners durch "*.jpg"<br>
