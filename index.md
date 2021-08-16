@@ -98,3 +98,7 @@ Problem war, dass der Befehl raspistill beim Trennen der SSH-Verbindung abbrach.
 ```ffmpeg -r 10 -f image2 -pattern_type glob -i /media/usbstick/"*.jpg" -s 1920x1080 -vcodec libx264 /media/usbstick/zeitfaffer.mp4```<br>
 <b>-r</b> = Anzahl der Bilder pro Sekunde<br>
 <b>-i</b> = Eingabe; Anführungszeichen!; alle .jpg-Bilder eines Ordners durch "*.jpg"<br>
+
+### Sequator
+Tool zum Stacken von Bildern des Nacht-/Sternenhimmels <br>
+[Sequator](https://sites.google.com/view/sequator/introduction) <br>
