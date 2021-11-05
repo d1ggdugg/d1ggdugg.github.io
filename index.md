@@ -5,6 +5,9 @@ Alle .m4v-Dateien als .mp4-Datei mit gleichem Namen speichern im aktuellen Ordne
 ### Video-Dateien komprimieren mit ffmpeg
 Video um die Hälfte reduzieren und komprimieren (357MB zu 7,8MB)<br>
 ```ffmpeg -i input.mp4 -vcodec h264 -acodec aac -crf 30 -vf "scale=iw/2:ih/2" output.mp4```<br>
+Verkleinern und Tonspur entfernen<br>
+```ffmpeg -i input.mp4 -an -vcodec h264 -an -crf 30 -vf "scale=iw/2:ih/2" output.mp4```<br>
+-an = Tonspur entfernen, muss auf den input erfolgen<br>
 
 ### Spotify Songs downloaden
 [ritiek/spotify-downloader](https://github.com/ritiek/spotify-downloader)<br>
