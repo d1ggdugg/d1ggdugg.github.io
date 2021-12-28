@@ -106,3 +106,7 @@ Problem war, dass der Befehl raspistill beim Trennen der SSH-Verbindung abbrach.
 ### Sequator
 Tool zum Stacken von Bildern des Nacht-/Sternenhimmels <br>
 [Sequator](https://sites.google.com/view/sequator/introduction) <br>
+
+### Pika
+Tool zum Auslesen von Farben auch im heximal Format unter MacOS<br>
+[Pika](https://superhighfives.com/pika)<br>
