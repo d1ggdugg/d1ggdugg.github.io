@@ -110,3 +110,9 @@ Tool zum Stacken von Bildern des Nacht-/Sternenhimmels <br>
 ### Pika
 Tool zum Auslesen von Farben auch im heximal Format unter MacOS<br>
 [Pika](https://superhighfives.com/pika)<br>
+
+###Erstellungdatum gesicherter WhatsApp-Bilder berichtigen
+Nach dem Kopieren von über WhatsApp versandten Fotos ist das Erstellungsdatum das Datum, an dem die Datei auf dem PC gespeichert wurde. Das Änderungsdatum entspricht dem tatsächlichen Aufnahmedatum.<br>
+```exiftool "-filecreatedate<filemodifydate" Pfad_zum_Bild```<br>
+filecreatedate = Erstellungsdatum<br>
+filemodifydate = Änderungsdatum <br>
