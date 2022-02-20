@@ -113,7 +113,8 @@ Tool zum Auslesen von Farben auch im heximal Format unter MacOS<br>
 
 ### Erstellungdatum gesicherter WhatsApp-Bilder berichtigen
 Nach dem Kopieren von über WhatsApp versandten Fotos und Videos ist das Erstellungsdatum das Datum, an dem die Datei auf dem PC gespeichert wurde. Das Änderungsdatum entspricht dem tatsächlichen Aufnahmedatum. Beachte unterschiedliche Parameter für "create date" bei Fotos und Videos!<br>
-```exiftool "-filecreatedate<filemodifydate" Pfad_zum_Bild```<br>
+Für Fotos: ```exiftool "-filecreatedate<filemodifydate" Pfad_zum_Bild```<br>
+Für Videos: ```exiftool "-createdate<filemodifydate" Pfad_zum_Video```<br>
 filecreatedate = Erstellungsdatum für Bilder<br>
 filemodifydate = Änderungsdatum für Bilder<br>
 createdate = Erstellungsdatum für Videos<br>
