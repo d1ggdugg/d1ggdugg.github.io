@@ -56,7 +56,7 @@ Ganz einfacher Musik-Player ohne Werbung und nur für den Offline-Einsatz<br>
 ### Luminar 4 Ordner für Ersetzung Himmeln (SkyReplacement) unter MacOS
 [Anleitung](https://www.dpreview.com/forums/thread/4444084)<br>
 
-### Bilder umbenennen anhand der Exif-Daten unter MacOs
+### Bilder umbenennen anhand der Exif-Daten unter MacOS
 [ExifRenamer](https://www.qdev.de/?location=mac/exifrenamer)<br>
 
 ### WLAN Stärke alle 0,5 Sekunden per Terminal konrollieren unter MacOS
