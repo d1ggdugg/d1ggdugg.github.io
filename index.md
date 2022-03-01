@@ -24,19 +24,6 @@ Fehler vermeiden: ```pip3 uninstall spotdl```<br>
 ### Ausschnitte aus Final Cut Pro X exportieren
 Anfang des Videos mit ```i``` und Ende mit ```o``` markieren und ```Video bereitstellen```<br>
 
-### Einblendungen animieren mit Keyframe
-Einblendung einer Bauchbinde mit einem Titel und nacheinanderfolgenden zwei Untertiteln. Gesamtspielzeit: 10 Sekunden.<br>
-
-Aufbau: ```Überblenden und Bewegen```<br>
-Aktion: ```Bewegen (Beschleunigung: ohne)```<br>
-Abbau: ```Überblenden und Bewegen```<br>
-
-| Animation | Titel         | Untertitel 1     | Untertitel 2     |
-| --------- | ------------- | ---------------- | ---------------- |
-| Aufbau    | 1 Sek.        | 1 Sek.           | 1 Sek.           |
-| Aktion    | 8 Sek. (20px) | 3,5 Sek. (-20px) | 3,5 Sek. (-20px) |
-| Abbau     | 1 Sek.        | 1 Sek.           | 1 Sek.           |
-
 ### Untertitel 1080p
 Schriftart: Roboto<br>
 Höhe: 925 von Unterkante<br>
