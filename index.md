@@ -105,3 +105,6 @@ Für Videos: ```exiftool "-createdate<filemodifydate" Pfad_zum_Video```<br>
 filecreatedate = Erstellungsdatum für Bilder<br>
 filemodifydate = Änderungsdatum für Bilder<br>
 createdate = Erstellungsdatum für Videos<br>
+
+### mp3-Tag in Kommandozeile editieren
+[eyeD3](https://manpages.ubuntu.com/manpages/focal/en/man1/eyeD3.1.html)<br>
