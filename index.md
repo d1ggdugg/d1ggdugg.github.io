@@ -108,3 +108,10 @@ createdate = Erstellungsdatum für Videos<br>
 
 ### mp3-Tag in Kommandozeile editieren
 [eyeD3](https://manpages.ubuntu.com/manpages/focal/en/man1/eyeD3.1.html)<br>
+
+### kostenloser VPN Service
+[Windscribe](https://deu.windscribe.com)<br>
+
+### Wegwerf / temporäre E-Mail-Adresse
+[temp-mail](https://temp-mail.org/de/)<br>
+
