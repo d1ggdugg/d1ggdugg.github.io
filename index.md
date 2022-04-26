@@ -106,6 +106,10 @@ filecreatedate = Erstellungsdatum für Bilder<br>
 filemodifydate = Änderungsdatum für Bilder<br>
 createdate = Erstellungsdatum für Videos<br>
 
+### Dateinnamen ändern gemäß EXIF-Daten
+Daten umbennen aus dem CreateDate der EXIF-Daten im Format YYYY-MM-DD_HH-MM-SS (z.B. 2022-04-26_13-37-11)<br>
+```exiftool -d %Y-%m-%d_%H-%M-%S%%-c.%%e "-filename<CreateDate"```<br>
+
 ### mp3-Tag in Kommandozeile editieren
 [eyeD3](https://manpages.ubuntu.com/manpages/focal/en/man1/eyeD3.1.html)<br>
 
