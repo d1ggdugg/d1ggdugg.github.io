@@ -120,3 +120,6 @@ FileModifyDate: ```exiftool -d %Y-%m-%d_%H-%M-%S%%-c.%%e "-filename<FileModifyDa
 ### Wegwerf / temporäre E-Mail-Adresse
 [temp-mail](https://temp-mail.org/de/)<br>
 
+### Fotos sichern vom iphone über Windows Fotos
+```exiftool -S```<br>
+auslesen, was stimmt, EXIF createdate erstellen wie oben, datei umbenennen
