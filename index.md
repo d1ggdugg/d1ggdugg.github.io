@@ -120,7 +120,7 @@ FileModifyDate: ```exiftool -d %Y-%m-%d_%H-%M-%S%%-c.%%e "-filename<FileModifyDa
 ### Wegwerf / temporäre E-Mail-Adresse / SMS
 [temp-mail](https://temp-mail.org/de/)<br>
 [SMS empfangen](https://de.mytempsms.com)<br>
-[SMS empfangen](https://onlinesim.ru)<br>
+[SMS empfangen - gestestet, funktioniert](https://onlinesim.ru)<br>
 
 ### Fotos sichern vom iphone über Windows Fotos
 ```exiftool -S```<br>
