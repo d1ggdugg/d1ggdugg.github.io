@@ -125,3 +125,6 @@ FileModifyDate: ```exiftool -d %Y-%m-%d_%H-%M-%S%%-c.%%e "-filename<FileModifyDa
 ### Fotos sichern vom iphone über Windows Fotos
 ```exiftool -S```<br>
 auslesen, was stimmt, EXIF createdate erstellen wie oben, datei umbenennen
+
+### MacOS Netzlaufwerk dauerhaft einbinden (USB @ FritzBox)
+[computerbild.de](https://www.computerbild.de/artikel/cb-Tipps-Software-MacOS-Netzlaufwerk-dauerhaft-verbinden-31470263.html)
