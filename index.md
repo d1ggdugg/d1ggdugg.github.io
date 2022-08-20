@@ -127,4 +127,8 @@ FileModifyDate: ```exiftool -d %Y-%m-%d_%H-%M-%S%%-c.%%e "-filename<FileModifyDa
 auslesen, was stimmt, EXIF createdate erstellen wie oben, datei umbenennen
 
 ### MacOS Netzlaufwerk dauerhaft einbinden (USB @ FritzBox)
-[computerbild.de](https://www.computerbild.de/artikel/cb-Tipps-Software-MacOS-Netzlaufwerk-dauerhaft-verbinden-31470263.html)
+[computerbild.de](https://www.computerbild.de/artikel/cb-Tipps-Software-MacOS-Netzlaufwerk-dauerhaft-verbinden-31470263.html)<br>
+
+###onefootball
+[VPN.lat](http://vpn.lat) als kostenlosen VPN; nach Start des Streams kann der VPN-Service geschlossen werden.<br>
+Der Link zum Stream z.B. onefootball.com/de/spiel/2297953 muss pt-br anstatt de lauten.
