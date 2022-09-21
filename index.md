@@ -132,3 +132,7 @@ auslesen, was stimmt, EXIF createdate erstellen wie oben, datei umbenennen
 ### onefootball
 [VPN.lat](http://vpn.lat) als kostenlosen VPN; nach Start des Streams kann der VPN-Service geschlossen werden.<br>
 Der Link zum Stream z.B. onefootball.com/de/spiel/2297953 muss pt-br anstatt de lauten.
+
+### coconutBattery
+[Download](https://www.coconut-flavour.com/coconutbattery/)<br>
+Programm zur Auswertung des Zustands des Akkus unter MacOS
