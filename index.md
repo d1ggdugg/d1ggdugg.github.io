@@ -136,3 +136,7 @@ Der Link zum Stream z.B. onefootball.com/de/spiel/2297953 muss pt-br anstatt de 
 ### coconutBattery
 [Download](https://www.coconut-flavour.com/coconutbattery/)<br>
 Programm zur Auswertung des Zustands des Akkus unter MacOS
+
+### Stable Diffusion
+[Bericht und Anleitung zum sauberen Löschen](https://t3n.de/news/stable-diffusion-windows-mac-installieren-1499327/)
+[Diffusionbee für MacOS](https://diffusionbee.com)
