@@ -139,4 +139,7 @@ Programm zur Auswertung des Zustands des Akkus unter MacOS
 
 ### Stable Diffusion
 [Bericht und Anleitung zum sauberen Löschen](https://t3n.de/news/stable-diffusion-windows-mac-installieren-1499327/)<br>
-[Diffusionbee für MacOS](https://diffusionbee.com)
+[Diffusionbee für MacOS](https://diffusionbee.com)<br>
+
+### Paywalls
+[Bypass Paywalls Clean for Chrome](https://github.com/qnoum/bypass-paywalls-chrome-clean-magnolia1234)<br>
