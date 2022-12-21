@@ -143,3 +143,9 @@ Programm zur Auswertung des Zustands des Akkus unter MacOS
 
 ### Paywalls
 [Bypass Paywalls Clean for Chrome](https://github.com/qnoum/bypass-paywalls-chrome-clean-magnolia1234)<br>
+
+### Temporäre E-Mails unter MacOS
+[TempBox](https://github.com/devwaseem/TempBox)<br>
+
+### PS Vita Hack / Jailbreak
+[h-encore²](https://github.com/TheOfficialFloW/h-encore-2)<br>
