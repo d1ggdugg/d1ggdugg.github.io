@@ -149,3 +149,6 @@ Programm zur Auswertung des Zustands des Akkus unter MacOS
 
 ### PS Vita Hack / Jailbreak
 [h-encore²](https://github.com/TheOfficialFloW/h-encore-2)<br>
+
+### Lifehacks PC & Mac
+[Lifehacks](https://9gag.com/gag/avQG7NZ?ref=android)<br>
