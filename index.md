@@ -156,3 +156,11 @@ Programm zur Auswertung des Zustands des Akkus unter MacOS
 ### pytr
 Tool zum Herunterladen sämtlicher Dokumente von Trade Republic<br>
 [pytr](https://github.com/marzzzello/pytr)<br>
+
+### In einer PPP in ein Bild hineinzoomen
+Zoomen in ein Bild in einer Powerpoint-Präsentation<br>
+[Mit PowerPoint in ein Bild hineinzoomen](https://www.pctipp.ch/news/office/mit-powerpoint-in-ein-bild-hineinzoomen-2019478.html)<br>
+Fügen Sie zuerst das Bild (oder die Karte) auf einer Folie ein, so wie Sie diese in der Übersicht zeigen möchten (A). Klicken Sie danach mit der rechten Maustaste auf die Folie und wählen Sie im Kontextmenü «Folie duplizieren» (B). Danach vergrössern Sie das Bild auf der Folie so weit, bis es den Ausschnitt zeigt, auf den Sie heranzoomen möchten (C). Und so zoomen Sie von der ersten zur zweiten Folie.<br>
+<br>
+Wählen Sie oben im PowerPoint-Fenster den Menüpunkt «Übergänge» (A). Klicken Sie auf die zweite Folie (B) und wählen Sie dann bei den Übergangseffekten «Morphen» (C). Wenn Sie nun die Folie präsentieren, zoomt PowerPoint vom Übersichtsbild auf der ersten Folien zur Detailansicht.
+Diese Funktionen finden Sie in den neusten Versionen von PowerPoint, das zu Microsofts Office-Paket gehört. Wenn Sie immer auf dem neusten Stand der Entwicklung sein möchten, empfehlen wir Microsoft Office 365, das laufend aktualisiert wird und deshalb immer auf dem neusten Stand ist.<br>
