@@ -152,3 +152,7 @@ Programm zur Auswertung des Zustands des Akkus unter MacOS
 
 ### Lifehacks PC & Mac
 [Lifehacks](https://9gag.com/gag/avQG7NZ?ref=android)<br>
+
+### pytr
+Tool zum Herunterladen sämtlicher Dokumente von Trade Republic<br>
+[pytr](https://github.com/marzzzello/pytr)<br>
