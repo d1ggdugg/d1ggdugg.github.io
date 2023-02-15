@@ -164,3 +164,7 @@ Fügen Sie zuerst das Bild (oder die Karte) auf einer Folie ein, so wie Sie dies
 <br>
 Wählen Sie oben im PowerPoint-Fenster den Menüpunkt «Übergänge» (A). Klicken Sie auf die zweite Folie (B) und wählen Sie dann bei den Übergangseffekten «Morphen» (C). Wenn Sie nun die Folie präsentieren, zoomt PowerPoint vom Übersichtsbild auf der ersten Folien zur Detailansicht.
 Diese Funktionen finden Sie in den neusten Versionen von PowerPoint, das zu Microsofts Office-Paket gehört. Wenn Sie immer auf dem neusten Stand der Entwicklung sein möchten, empfehlen wir Microsoft Office 365, das laufend aktualisiert wird und deshalb immer auf dem neusten Stand ist.<br>
+
+### Portfolio Performance
+Ein Open Source Programm zur Berechnung der Performance eines Gesamtportfolios - über verschiedene Depots und Konten hinweg - anhand von True-Time Weighted Rate of Return und internem Zinsfuß.<br>
+[Portfolio Performance](https://www.portfolio-performance.info)
