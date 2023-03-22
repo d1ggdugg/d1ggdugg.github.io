@@ -167,4 +167,10 @@ Diese Funktionen finden Sie in den neusten Versionen von PowerPoint, das zu Micr
 
 ### Portfolio Performance
 Ein Open Source Programm zur Berechnung der Performance eines Gesamtportfolios - über verschiedene Depots und Konten hinweg - anhand von True-Time Weighted Rate of Return und internem Zinsfuß.<br>
-[Portfolio Performance](https://www.portfolio-performance.info)
+[Portfolio Performance](https://www.portfolio-performance.info)<br>
+
+### kostenloses Stock-Fotos
+[Pexels](https://www.pexels.com/de-de/)<br>
+
+### Farbpaletten erstellen
+[Coolors](https://coolors.co)
