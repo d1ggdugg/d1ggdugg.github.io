@@ -173,4 +173,7 @@ Ein Open Source Programm zur Berechnung der Performance eines Gesamtportfolios -
 [Pexels](https://www.pexels.com/de-de/)<br>
 
 ### Farbpaletten erstellen
-[Coolors](https://coolors.co)
+[Coolors](https://coolors.co)<br>
+
+### Turn any process into a step-by-step guide, instantly
+[Scribe](https://scribehow.com)<br>
