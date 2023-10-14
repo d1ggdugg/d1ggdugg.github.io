@@ -105,6 +105,7 @@ Für Videos: ```exiftool "-createdate<filemodifydate" Pfad_zum_Video```<br>
 filecreatedate = Erstellungsdatum für Bilder<br>
 filemodifydate = Änderungsdatum für Bilder<br>
 createdate = Erstellungsdatum für Videos<br>
+kann auch CreationDate sein!!!<br>
 
 ### Dateinnamen ändern gemäß EXIF-Daten
 Daten umbennen aus dem CreateDate (hilfsweise FileModifyDate der EXIF-Daten im Format YYYY-MM-DD_HH-MM-SS (z.B. 2022-04-26_13-37-11)<br>
